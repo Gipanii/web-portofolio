@@ -1,0 +1,26 @@
+body {
+    margin: auto;
+}
+.jumbotron {
+    padding-top: 6rem;
+    padding-bottom: 6rem;
+    background-color: #babae2;
+}
+
+.keren {
+    font-size: 30px;
+}
+
+.rounded-circle {
+				border: 5px solid #0003ff;
+}
+
+#galeri {
+				background-color: #babae2;
+}
+
+.futer {
+				font-size: 17px;
+				background-color: #babae2;
+				padding-bottom: 1rem;
+}
